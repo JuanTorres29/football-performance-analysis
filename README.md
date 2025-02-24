@@ -17,7 +17,7 @@ Identificar a los jugadores más efectivos por posición, utilizando un enfoque 
    - Generación de **rankings** ofensivos, defensivos, de creación de juego y de pases.
 4. **Análisis Estadístico:**
    - Evaluación de rendimiento por posición y selección de los mejores jugadores para una formación 4-3-3.
-   - Se realizaron pruebas con **modelos de regresión** y **árboles de decisión**, aunque los resultados de las métricas obtenidas fueron bajos.
+   - Se realizaron pruebas con **modelos de regresión** y **árboles de decisión** con los datos de `data/data_modelo`, aunque los resultados de las métricas obtenidas fueron bajos.
 
 ## 🛠️ Herramientas Utilizadas
 - **Lenguaje:** Python
