@@ -17,6 +17,7 @@ Identificar a los jugadores más efectivos por posición, utilizando un enfoque 
    - Generación de **rankings** ofensivos, defensivos, de creación de juego y de pases.
 4. **Análisis Estadístico:**
    - Evaluación de rendimiento por posición y selección de los mejores jugadores para una formación 4-3-3.
+   - Se realizaron pruebas con **modelos de regresión** y **árboles de decisión**, aunque los resultados de las métricas obtenidas fueron bajos.
 
 ## 🛠️ Herramientas Utilizadas
 - **Lenguaje:** Python
@@ -42,6 +43,6 @@ Identificar a los jugadores más efectivos por posición, utilizando un enfoque 
 ## 📈 Conclusión
 El proyecto permitió seleccionar un equipo ideal basado en métricas objetivas de rendimiento, mostrando cómo el análisis estadístico puede optimizar la toma de decisiones en la gestión de un equipo de fútbol.
 
-## 📧 Contacto
+## 📧 Autores
 Juan Torres y Juliana Rubio
 
