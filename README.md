@@ -32,7 +32,7 @@ Identificar a los jugadores más efectivos por posición, utilizando un enfoque 
 ## 📂 Estructura del Proyecto
 ```
 📦 football-performance-analysis
- ├── 📁 data            # Datos crudos y procesados
+ ├── 📁 data            # Datos procesados para la parte de análisis estadístico
  ├── 📁 notebook       # Notebooks trabajados
  ├── 📄 README.md       # Documentación del proyecto
  ├── 📄 requirements.txt # Dependencias del proyecto
